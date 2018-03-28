@@ -5,6 +5,8 @@
 	],
 	"installed_packages":
 	[
+		"Anaconda",
+		"BracketHighlighter",
 		"Package Control",
 		"Python 3",
 		"SideBarEnhancements",
