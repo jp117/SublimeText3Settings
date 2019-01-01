@@ -9,6 +9,8 @@
 		"Package Control",
 		"Python 3",
 		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
 		"SublimeREPL"
 	]
 }
